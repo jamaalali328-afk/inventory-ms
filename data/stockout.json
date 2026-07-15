@@ -1,0 +1,26 @@
+[
+  {
+    "id": "so1",
+    "date": "2026-07-13",
+    "productId": "p1",
+    "quantity": 10,
+    "destinationId": "b3",
+    "referenceNote": "Issue slip #501"
+  },
+  {
+    "id": "so2",
+    "date": "2026-07-11",
+    "productId": "p3",
+    "quantity": 5,
+    "destinationId": "b2",
+    "referenceNote": "Issue slip #502"
+  },
+  {
+    "id": "so3",
+    "date": "2026-07-07",
+    "productId": "p4",
+    "quantity": 3,
+    "destinationId": "b1",
+    "referenceNote": "Issue slip #503"
+  }
+]

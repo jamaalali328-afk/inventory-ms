@@ -1,0 +1,17 @@
+[
+  {
+    "id": "b1",
+    "name": "Main Branch",
+    "description": "Head office branch"
+  },
+  {
+    "id": "b2",
+    "name": "Warehouse",
+    "description": "Central warehouse"
+  },
+  {
+    "id": "b3",
+    "name": "Sales Department",
+    "description": ""
+  }
+]

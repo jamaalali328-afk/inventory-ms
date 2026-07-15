@@ -1,0 +1,42 @@
+[
+  {
+    "id": "p1",
+    "code": "PRD-001",
+    "name": "Bottled Water 500ml",
+    "category": "Beverages",
+    "unitType": "Piece",
+    "quantity": 120,
+    "minQuantity": 30,
+    "description": "500ml bottled drinking water"
+  },
+  {
+    "id": "p2",
+    "code": "PRD-002",
+    "name": "Rice 25kg Bag",
+    "category": "Groceries",
+    "unitType": "Bag",
+    "quantity": 8,
+    "minQuantity": 10,
+    "description": "25kg rice bag"
+  },
+  {
+    "id": "p3",
+    "code": "PRD-003",
+    "name": "Cooking Oil 5L",
+    "category": "Groceries",
+    "unitType": "Bottle",
+    "quantity": 45,
+    "minQuantity": 15,
+    "description": "5 liter cooking oil bottle"
+  },
+  {
+    "id": "p4",
+    "code": "PRD-004",
+    "name": "A4 Paper Ream",
+    "category": "Office Supplies",
+    "unitType": "Ream",
+    "quantity": 5,
+    "minQuantity": 10,
+    "description": "500 sheets A4 printing paper"
+  }
+]

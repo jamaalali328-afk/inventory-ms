@@ -1,0 +1,23 @@
+[
+  {
+    "id": "si1",
+    "date": "2026-07-12",
+    "productId": "p1",
+    "quantity": 50,
+    "referenceNote": "Invoice #1001"
+  },
+  {
+    "id": "si2",
+    "date": "2026-07-09",
+    "productId": "p3",
+    "quantity": 20,
+    "referenceNote": "Invoice #1002"
+  },
+  {
+    "id": "si3",
+    "date": "2026-07-04",
+    "productId": "p2",
+    "quantity": 15,
+    "referenceNote": "Invoice #1003"
+  }
+]

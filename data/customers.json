@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c1",
+    "name": "Walk-in Customer",
+    "phone": "",
+    "address": "",
+    "dateCreated": "2026-04-15"
+  },
+  {
+    "id": "c2",
+    "name": "Ahmed Hassan",
+    "phone": "0615551234",
+    "address": "Mogadishu",
+    "dateCreated": "2026-06-24"
+  }
+]

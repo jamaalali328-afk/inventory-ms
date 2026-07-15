@@ -1,0 +1,10 @@
+[
+  {
+    "id": "u1",
+    "name": "Admin",
+    "email": "admin@store.com",
+    "role": "admin",
+    "salt": "148593182dd07cc3f6df3ed27110d1a7",
+    "hash": "ba850e223e887fd7fd6f794d9bb953b15475c15461a5c285a1fb27c2c17b25bde2e04004c3feabbb52d617782a8b091d3cc456fbdf219046888a6715adbcb5e8"
+  }
+]
